@@ -5,3 +5,58 @@
 .divs-facilidades {
   width: 320px;
 }
+
+.bg-black {
+  background: #000;
+}
+
+.bg-lilas {
+  background: #9353ff;
+}
+
+.text-verde {
+  color: #daff01;
+}
+
+.button-addon2 {
+  width: 80px;
+}
+
+@media screen and (max-width: 767px) {
+  .carousel-caption-center-1 {
+    display: none;
+  }
+  
+  .carousel-caption-center-2 {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .form-newsletter {
+    width: 75%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .carousel-caption-center-1 {
+    margin-bottom: 12%;
+  }
+  
+  .carousel-caption-center-2 {
+    margin-bottom: 14%;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1199px) {
+  .carousel-caption-center-1 {
+    height: 14vw;
+  }
+
+  .carousel-caption-center-2 {
+    text-align: center;
+    width: 100vw;
+    margin-left: -32vw;
+    height: 12vw;
+  }
+}
