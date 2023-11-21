@@ -11,4 +11,4 @@ Projeto concluído no curso da Alura do módulo <b> Bootstrap5: crie uma landing
 ## Tecnologias utilizadas no projeto
 * HTML
 * CSS
-* Biblioteca Bootstrap 5
+* Bootstrap 5
